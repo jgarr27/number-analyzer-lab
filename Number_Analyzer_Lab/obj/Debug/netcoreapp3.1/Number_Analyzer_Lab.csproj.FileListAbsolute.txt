@@ -1,0 +1,14 @@
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\bin\Debug\netcoreapp3.1\Number_Analyzer_Lab.exe
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\bin\Debug\netcoreapp3.1\Number_Analyzer_Lab.deps.json
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\bin\Debug\netcoreapp3.1\Number_Analyzer_Lab.runtimeconfig.json
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\bin\Debug\netcoreapp3.1\Number_Analyzer_Lab.runtimeconfig.dev.json
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\bin\Debug\netcoreapp3.1\Number_Analyzer_Lab.dll
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\bin\Debug\netcoreapp3.1\Number_Analyzer_Lab.pdb
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.csproj.AssemblyReference.cache
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.AssemblyInfoInputs.cache
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.AssemblyInfo.cs
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.csproj.CoreCompileInputs.cache
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.dll
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.pdb
+C:\Users\jgarr\source\repos\Number_Analyzer_Lab\Number_Analyzer_Lab\obj\Debug\netcoreapp3.1\Number_Analyzer_Lab.genruntimeconfig.cache
